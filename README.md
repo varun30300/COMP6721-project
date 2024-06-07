@@ -1,3 +1,46 @@
-# COMP6721-project
+# COMP6721 Project 
 
-link to coalb - [https://colab.research.google.com/drive/1IEujXYaWgXu6dotPj_W8gzVp-eil01mz#scrollTo=EqOVBZxC4BbO](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3)
+## High Level Description
+
+This project aims to perform image classification into 5 different classes. . The project is divided into two main parts: one using Scikit-learn and the other using PyTorch. Both implementations will allow for training, validation, and prediction using provided datasets.
+
+## Requirements
+
+To run the Python code provided in this project, you will need the following libraries:
+
+### Common Libraries and Requirnment 
+- Python 3.10
+- OS
+- openCV
+- Scikit-learn
+- Matplotlib 
+- Jupyter Notebook
+- Numpy
+- Pickle
+- CSV
+- Seaborn
+
+
+## Model Validation and Training
+
+### Supervised Learning 
+To validate the Result of the Supervised model run - Notebooks/Step 3 - Train.ipynb
+
+### Semi-Supervised Learning 
+To validate the Result of the Semi-Supervised model run - Notebooks/Semi-Supervised.ipynb
+
+The codebase to train and validate both the model are in the 2 files listed above. 
+
+## How to obtain the Dataset
+
+[Link to Dataset](https://drive.google.com/file/d/1FVLjIjUDEd-ks00W5y-IzRlZFTBzvyeA/view)
+
+## Colab
+
+[Link to Colab](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3)
+
+## Contribution
+
+- Varun - Reseach and brainstorming, codebase for supervised learning, codebase for feature extraction, documentation 
+- Deepthi - Reseach and brainstorming, codebase for semi-supervised learning, codebase for feature extraction, documentation
+- Yun Fat Chan - Reseach and brainstorming, documentation
