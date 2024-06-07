@@ -35,5 +35,6 @@ The codebase to train and validate both the model are in the 2 files listed abov
 
 [Link to Dataset](https://drive.google.com/file/d/1FVLjIjUDEd-ks00W5y-IzRlZFTBzvyeA/view)
 
-link to colab - [Link to Colab](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3)
-link to colab - [https://colab.research.google.com/drive/1IEujXYaWgXu6dotPj_W8gzVp-eil01mz#scrollTo=EqOVBZxC4BbO](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3)
+## Colab
+
+[Link to Colab](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3
