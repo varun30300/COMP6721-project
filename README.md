@@ -37,10 +37,10 @@ The codebase to train and validate both the model are in the 2 files listed abov
 
 ## Colab
 
-[Link to Colab](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3
+[Link to Colab](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3)
 
 ## Contribution
 
-Varun - Reseach and brainstorming, codebase for supervised learning, codebase for feature extraction, documentation 
-Deepthi - Reseach and brainstorming, codebase for semi-supervised learning, codebase for feature extraction, documentation
-Yun Fat Chan - Reseach and brainstorming, documentation
+- Varun - Reseach and brainstorming, codebase for supervised learning, codebase for feature extraction, documentation 
+- Deepthi - Reseach and brainstorming, codebase for semi-supervised learning, codebase for feature extraction, documentation
+- Yun Fat Chan - Reseach and brainstorming, documentation
