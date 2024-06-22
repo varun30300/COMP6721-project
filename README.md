@@ -37,7 +37,8 @@ The codebase to train and validate both the model are in the 2 files listed abov
 
 ## Colab
 
-[Link to Colab](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3)
+[Unsupervised](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3)
+[ModelEvaluation](https://colab.research.google.com/drive/1ijqLubYInDLC7ti8YFdJO0SV9BK3DOvp#scrollTo=f4uTprShfpO3)
 
 ## Contribution
 
