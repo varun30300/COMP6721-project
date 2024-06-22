@@ -43,4 +43,4 @@ The codebase to train and validate both the model are in the 2 files listed abov
 
 - Varun - Reseach and brainstorming, codebase for supervised learning, codebase for feature extraction, documentation, codebase for phase 2
 - Deepthi - Reseach and brainstorming, codebase for semi-supervised learning, codebase for feature extraction, documentation, codebase for phase 2
-- Yun Fat Chan - Reseach and brainstorming, documentation, codebase for phase 2
+- Yun Fat Chan - Reseach and brainstorming, codebase for semi-supervised learning, documentation, codebase for phase 2, documentation for phas 2 
